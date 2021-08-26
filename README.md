@@ -20,7 +20,7 @@ Once the link has been copied
 
 Once cloned you will notice this , see below:
 
-![alt text](clone.PNG)
+![alt text](clone.png)
 
 Well done! 
 First step done and dusted

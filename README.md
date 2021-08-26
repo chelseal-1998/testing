@@ -29,19 +29,19 @@ First step done and dusted
 
 - Make sure you have a IDE where you can open the project on , you can use IntelliJ IDEA Community Edition 2021 to open the project , see below:
 
-![alt text](ide.PNG)
+![alt text](ide.png)
 
 - Once your IDE is open , click on the "Open" button , see below:
-![alt text](idea.PNG)
+![alt text](idea.png)
 
 - After clicking the "open" button you will be able to navigate to the appropriate path (where you cloned the repo) & click "build gradle" and "ok", see below:
-![alt text](build.PNG)
+![alt text](build.png)
 
 - You will now see a pop up that says "Open project" , you will then click "Open as project",  see below:
-![alt text](open.PNG)
+![alt text](open.png)
 
 - After clicking "Open as project" , you will see a popup that says "Trust and open gradle project" , click on "Trust project" ,see below:
-![alt text](trust.PNG)
+![alt text](trust.png)
 
 - The project will then build dependencies for the following project.
 Once the project is done building you can now run the tests.
@@ -49,7 +49,7 @@ Once the project is done building you can now run the tests.
 ## Executing tests
 
 - In IntelliJ IDE , right click the test name or test package and select 'Run' option , see below:
-![alt text](run.PNG)
+![alt text](run.png)
 
 
 
